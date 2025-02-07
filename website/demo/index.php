@@ -31,6 +31,6 @@ $books = [
     ]
 ];
 
-require 'index.vue.php';
+require 'views/index.vue.php';
 
 ?>

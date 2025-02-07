@@ -1,4 +1,4 @@
 <?php  
-require 'about.vue.php'
+require 'views/about.vue.php'
 
 ?>

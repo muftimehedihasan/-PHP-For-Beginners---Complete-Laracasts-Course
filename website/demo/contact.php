@@ -1,4 +1,4 @@
 <?php 
-require 'contact.vue.php'
+require 'views/contact.vue.php'
 
 ?>
